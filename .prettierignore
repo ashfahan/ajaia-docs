@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+build
+coverage
+package-lock.json
+pnpm-lock.yaml
+*.afdesign
+public
+.vercel
+test-results
+playwright-report
+next-env.d.ts
